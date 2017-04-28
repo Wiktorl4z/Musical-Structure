@@ -1,11 +1,7 @@
 <resources>
     <string name="app_name">MusicApp</string>
-    <string name="description_main">Here you can select:search in SearchView song( youtube browser), Go to mostPopular Activity, Go to history activity, Go to owner songs </string>
     <string name="music_app">MUSIC APP!</string>
     <string name="most_popular_songs">Most Popular Songs</string>
     <string name="history">History</string>
     <string name="your_songs">Your songs</string>
-    <string name="popular_description">here you can find your most liked / popular songs in last time. Vertical List with name of songs.</string>
-    <string name="description_owner">Here you can upload your songs from PC and add to app</string>
-    <string name="description_history">Here you can find your recent songs, gona be vertical list to scroll</string>
 </resources>
