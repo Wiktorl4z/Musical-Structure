@@ -2,11 +2,13 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context="com.example.l4z.testujemysobie.HistoryActivity">
 
     <TextView
         android:id="@+id/historyID"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Here you can find your recent songs, gona be vertical list to scroll" />
+        android:text="@string/description_history" />
 </LinearLayout>
